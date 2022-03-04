@@ -1,0 +1,1 @@
+let featuredPosts = ["Check out my Netflix clone","Here's the code for mmy projet","I've just relaunched my portfolio"]
